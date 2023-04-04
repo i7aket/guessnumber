@@ -1,0 +1,15 @@
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/bin/Debug/net7.0/guessnumber
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/bin/Debug/net7.0/guessnumber.deps.json
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/bin/Debug/net7.0/guessnumber.runtimeconfig.json
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/bin/Debug/net7.0/guessnumber.dll
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/bin/Debug/net7.0/guessnumber.pdb
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/obj/Debug/net7.0/guessnumber.csproj.AssemblyReference.cache
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/obj/Debug/net7.0/guessnumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/obj/Debug/net7.0/guessnumber.AssemblyInfoInputs.cache
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/obj/Debug/net7.0/guessnumber.AssemblyInfo.cs
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/obj/Debug/net7.0/guessnumber.csproj.CoreCompileInputs.cache
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/obj/Debug/net7.0/guessnumber.dll
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/obj/Debug/net7.0/refint/guessnumber.dll
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/obj/Debug/net7.0/guessnumber.pdb
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/obj/Debug/net7.0/guessnumber.genruntimeconfig.cache
+/Users/Anatoliy/Work Dropbox/Anatoliy Yermakov/Programming/C#/Projects/guessnumber/guessnumber/obj/Debug/net7.0/ref/guessnumber.dll
